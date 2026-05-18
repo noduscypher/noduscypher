@@ -19,15 +19,17 @@
 | repository | focus |
 |---|---|
 | [rawmesh-node](https://github.com/noduscypher/rawmesh-node) | Reticulum backbone — always-on, low-power nodes |
-| [meshchatx-setup](https://github.com/noduscypher/meshchatx-setup) | MeshChatX, Reticulum and related tools |
-| [sideband-setup](https://github.com/noduscypher/sideband-setup) | Sideband — Linux, Raspberry Pi, desktop · PT/EN |
-| [mesh-guides](https://github.com/noduscypher/mesh-guides) | Meshtastic EU868 operation guides (PT/EN/ES) |
-| [tdeck-guides](https://github.com/noduscypher/tdeck-guides) | T-Deck Plus documentation in Portuguese |
-| [cypher-tools](https://github.com/noduscypher/cypher-tools) | PGP, AGE encryption and applied cryptography notes |
 | [COMMUNITY-PROPOSAL.md](https://github.com/noduscypher/COMMUNITY-PROPOSAL.md) | Decentralised mesh presence for local spaces |
 | [simplex-selfhosted-rpi4](https://github.com/noduscypher/simplex-selfhosted-rpi4) | SimpleX SMP server on Raspberry Pi 4 |
 | [blossom-server-guia-pt](https://github.com/noduscypher/blossom-server-guia-pt) | Blossom server privado no Raspberry Pi 4 com Tailscale |
+| [meshchatx-setup](https://github.com/noduscypher/meshchatx-setup) | MeshChatX, Reticulum and related tools |
+| [sideband-setup](https://github.com/noduscypher/sideband-setup) | Sideband — Linux, Raspberry Pi, desktop · PT/EN |
 | [columba-manual](https://github.com/noduscypher/columba-manual) | Manual bilingue PT/EN para Columba, Sideband e Reticulum |
+| [mesh-guides](https://github.com/noduscypher/mesh-guides) | Meshtastic EU868 operation guides (PT/EN/ES) |
+| [tdeck-guides](https://github.com/noduscypher/tdeck-guides) | T-Deck Plus documentation in Portuguese |
+| [cypher-tools](https://github.com/noduscypher/cypher-tools) | PGP, AGE encryption and applied cryptography notes |
+
+
 
 ------
 
