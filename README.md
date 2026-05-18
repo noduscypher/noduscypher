@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=444444&center=true&width=500&lines=%5B+boot+%5D+relay+initialized...;%5B+node+%5D+quiet+route+active;%5B+mesh+%5D+signal+alive;root%40field-node%3A~%24+_" />
 </p>
----
 
----
 
 ```
 ☥  noduscypher
