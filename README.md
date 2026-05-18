@@ -32,6 +32,29 @@
 | [COMMUNITY-PROPOSAL.md](https://github.com/noduscypher/COMMUNITY-PROPOSAL.md) | Decentralised mesh presence for local spaces |
 | [simplex-selfhosted-rpi4](https://github.com/noduscypher/simplex-selfhosted-rpi4) | SimpleX SMP server on Raspberry Pi 4 |
 
+------
+
+## ☥ Value for Value
+
+Se este guia te ajudou a construir ou manter o teu próprio nó, podes devolver valor da forma que fizer sentido para ti.
+
+O objetivo principal é manter nós pequenos e de baixo consumo online e a evoluir em silêncio — não otimizar para atenção ou crescimento.
+
+⚡ **Lightning:** `trustyflame02@zeuspay.com`
+
+Sem sats? Leva o sinal mais longe: partilha-o, espelha-o, traduz-o, remixa-o.
+
 ---
 
-*☥ Walk in silence. ₿ Keep the signal alive.*
+## ☥ Licença
+
+CC BY-SA 4.0 — [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+
+cypherpunks write code /// nature writes
+resilience /// we bridge both.
+
+
+*☥ Walk in silence. ₿ut Keep the signal alive.*
