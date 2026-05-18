@@ -20,6 +20,7 @@
 |---|---|
 | [rawmesh-node](https://github.com/noduscypher/rawmesh-node) | Reticulum backbone — always-on, low-power nodes |
 | [meshchatx-setup](https://github.com/noduscypher/meshchatx-setup) | MeshChatX, Reticulum and related tools |
+| [sideband-setup](https://github.com/noduscypher/sideband-setup) | Sideband — Linux, Raspberry Pi, desktop · PT/EN |
 | [mesh-guides](https://github.com/noduscypher/mesh-guides) | Meshtastic EU868 operation guides (PT/EN/ES) |
 | [tdeck-guides](https://github.com/noduscypher/tdeck-guides) | T-Deck Plus documentation in Portuguese |
 | [cypher-tools](https://github.com/noduscypher/cypher-tools) | PGP, AGE encryption and applied cryptography notes |
