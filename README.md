@@ -1,13 +1,5 @@
-<!-- VERSÃO MATRIX — descomenta este bloco para activar -->
-<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Developer+%26+applied+cryptography+practitioner;Resilient+mesh+networks+%7C+Reticulum;Quiet+tools.+Persistent+signal.;Walk+quietly%2C+%E2%82%BFut+keep+the+signal+alive+%E2%98%A5" alt="Typing SVG" />
-</p>
--->
-
-<!-- VERSÃO LOW-NOISE — activa por defeito -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1500&color=8B8B7A&background=00000000&center=true&vCenter=true&width=700&lines=developer+%26+applied+cryptography+practitioner;resilient+mesh+networks+%7C+reticulum+%7C+nomadnet;quiet+tools.+persistent+signal.;walk+quietly%2C+%E2%82%BFut+keep+the+signal+alive+%E2%98%A5" alt="Typing SVG" />
 </p>
 
 ---
