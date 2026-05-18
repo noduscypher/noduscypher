@@ -22,6 +22,8 @@
 | [cypher-tools](https://github.com/noduscypher/cypher-tools) | PGP, AGE encryption and applied cryptography notes |
 | [COMMUNITY-PROPOSAL.md](https://github.com/noduscypher/COMMUNITY-PROPOSAL.md) | Decentralised mesh presence for local spaces |
 | [simplex-selfhosted-rpi4](https://github.com/noduscypher/simplex-selfhosted-rpi4) | SimpleX SMP server on Raspberry Pi 4 |
+| [blossom-server-guia-pt](https://github.com/noduscypher/blossom-server-guia-pt) | Blossom server privado no Raspberry Pi 4 com Tailscale |
+| [columba-manual](https://github.com/noduscypher/columba-manual) | Manual bilingue PT/EN para Columba, Sideband e Reticulum |
 
 ------
 
