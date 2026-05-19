@@ -11,7 +11,9 @@
     Beira Baixa, Portugal 🇵🇹
     Reticulum · NomadNet · LXMF · off-grid · Nostr
 ```
-
+<p align="center">
+  <img src="LINK_DA_IMAGEM" alt="Cypherpunk hacker with laptop" width="420">
+</p>
 ---
 
 ### signal
