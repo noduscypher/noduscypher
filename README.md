@@ -9,7 +9,7 @@
 ```
 ☥  noduscypher
     Beira Baixa, Portugal 🇵🇹
-    Reticulum · NomadNet · LXMF · off-grid · Meshtastic · Nostr
+    Reticulum · NomadNet · Meshtastic · Meshcore · Nostr
 ```
 ---
 
