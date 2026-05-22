@@ -26,6 +26,7 @@
 | [columba-manual](https://github.com/noduscypher/columba-manual) | Manual bilingue PT/EN para Columba, Sideband e Reticulum |
 | [cypher-tools](https://github.com/noduscypher/cypher-tools) | PGP, AGE encryption and applied cryptography notes |
 | [simplex-selfhosted-rpi4](https://github.com/noduscypher/simplex-selfhosted-rpi4) | SimpleX SMP server on Raspberry Pi 4 |
+| [ngit-relay-pt-guia](https://github.com/noduscypher/ngit-relay-pt-guia) | Guia PT — ngit-relay (NIP-34) em Raspberry Pi |
 | [blossom-server-guia-pt](https://github.com/noduscypher/blossom-server-guia-pt) | Blossom server privado no Raspberry Pi 4 com Tailscale |
 | [thechatroom](https://github.com/noduscypher/thechatroom) | IRC-style chat room para Reticulum NomadNet |
 | [tessera](https://github.com/noduscypher/tessera) | secure invite-only mesh chatroom · anno domini mcxviii · Beira-Baixa |
