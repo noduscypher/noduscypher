@@ -17,6 +17,7 @@
 
 | repository | focus |
 |---|---|
+| [susurro-cabula](https://github.com/noduscypher/susurro-cabula) | Roland AIRA Compact cheat-sheet — T-8 + S-1 + P-6 · freq : quiet · signal : alive |
 | [COMMUNITY-PROPOSAL.md](https://github.com/noduscypher/COMMUNITY-PROPOSAL.md) | Decentralised mesh presence for local spaces |
 | [mesh-guides](https://github.com/noduscypher/mesh-guides) | Meshtastic EU868 operation guides (PT/EN/ES) |
 | [rawmesh-node](https://github.com/noduscypher/rawmesh-node) | Reticulum backbone — always-on, low-power nodes |
